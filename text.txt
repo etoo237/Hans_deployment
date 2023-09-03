@@ -1,2 +1,1 @@
-this is a text file
- armel cedric
+we are creating pipelines with jenkins
