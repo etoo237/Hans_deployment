@@ -1,1 +1,2 @@
 we are creating pipelines with jenkins
+class two and the processes are fully automated
